@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepreciationDBApp", "DepreciationDBApp\DepreciationDBApp.csproj", "{137DECD1-512C-40AA-8466-F51CE089ED92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepreciationDBApp.Domain", "DepreciationDBApp.Domain\DepreciationDBApp.Domain.csproj", "{F03D6071-C83C-4BB6-A051-703D4DBAE5E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137DECD1-512C-40AA-8466-F51CE089ED92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137DECD1-512C-40AA-8466-F51CE089ED92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137DECD1-512C-40AA-8466-F51CE089ED92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137DECD1-512C-40AA-8466-F51CE089ED92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F03D6071-C83C-4BB6-A051-703D4DBAE5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03D6071-C83C-4BB6-A051-703D4DBAE5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03D6071-C83C-4BB6-A051-703D4DBAE5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03D6071-C83C-4BB6-A051-703D4DBAE5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C19E518-DC35-4DFA-B3A2-140D31A17B8C}
+	EndGlobalSection
+EndGlobal
