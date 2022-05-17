@@ -1,0 +1,15 @@
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Applications\bin\Debug\net5.0\DepreciationDBApp.Applications.deps.json
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Applications\bin\Debug\net5.0\DepreciationDBApp.Applications.dll
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Applications\bin\Debug\net5.0\ref\DepreciationDBApp.Applications.dll
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Applications\bin\Debug\net5.0\DepreciationDBApp.Applications.pdb
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Applications\bin\Debug\net5.0\DepreciationDBApp.Domain.dll
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Applications\bin\Debug\net5.0\DepreciationDBApp.Domain.pdb
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Applications\obj\Debug\net5.0\DepreciationDBApp.Applications.csproj.AssemblyReference.cache
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Applications\obj\Debug\net5.0\DepreciationDBApp.Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Applications\obj\Debug\net5.0\DepreciationDBApp.Applications.AssemblyInfoInputs.cache
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Applications\obj\Debug\net5.0\DepreciationDBApp.Applications.AssemblyInfo.cs
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Applications\obj\Debug\net5.0\DepreciationDBApp.Applications.csproj.CoreCompileInputs.cache
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Applications\obj\Debug\net5.0\DepreciationDBApp.Applications.csproj.CopyComplete
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Applications\obj\Debug\net5.0\DepreciationDBApp.Applications.dll
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Applications\obj\Debug\net5.0\ref\DepreciationDBApp.Applications.dll
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Applications\obj\Debug\net5.0\DepreciationDBApp.Applications.pdb
