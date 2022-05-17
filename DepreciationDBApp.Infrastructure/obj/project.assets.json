@@ -6372,11 +6372,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JADPA18\\Desktop\\DepreciationDBApp-master\\DepreciationDBApp.Infrastructure\\DepreciationDBApp.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\JADPA18\\Desktop\\DepreciationDBApp-2M3\\DepreciationDBApp.Infrastructure\\DepreciationDBApp.Infrastructure.csproj",
       "projectName": "DepreciationDBApp.Infrastructure",
-      "projectPath": "C:\\Users\\JADPA18\\Desktop\\DepreciationDBApp-master\\DepreciationDBApp.Infrastructure\\DepreciationDBApp.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\JADPA18\\Desktop\\DepreciationDBApp-2M3\\DepreciationDBApp.Infrastructure\\DepreciationDBApp.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\JADPA18\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JADPA18\\Desktop\\DepreciationDBApp-master\\DepreciationDBApp.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\JADPA18\\Desktop\\DepreciationDBApp-2M3\\DepreciationDBApp.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6396,8 +6396,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\JADPA18\\Desktop\\DepreciationDBApp-master\\DepreciationDBApp.Domain\\DepreciationDBApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\JADPA18\\Desktop\\DepreciationDBApp-master\\DepreciationDBApp.Domain\\DepreciationDBApp.Domain.csproj"
+            "C:\\Users\\JADPA18\\Desktop\\DepreciationDBApp-2M3\\DepreciationDBApp.Domain\\DepreciationDBApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\JADPA18\\Desktop\\DepreciationDBApp-2M3\\DepreciationDBApp.Domain\\DepreciationDBApp.Domain.csproj"
             }
           }
         }

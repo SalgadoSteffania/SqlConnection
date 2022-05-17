@@ -1,0 +1,15 @@
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Infrastructure\bin\Debug\net5.0\DepreciationDBApp.Infrastructure.deps.json
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Infrastructure\bin\Debug\net5.0\DepreciationDBApp.Infrastructure.dll
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Infrastructure\bin\Debug\net5.0\ref\DepreciationDBApp.Infrastructure.dll
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Infrastructure\bin\Debug\net5.0\DepreciationDBApp.Infrastructure.pdb
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Infrastructure\bin\Debug\net5.0\DepreciationDBApp.Domain.dll
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Infrastructure\bin\Debug\net5.0\DepreciationDBApp.Domain.pdb
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Infrastructure\obj\Debug\net5.0\DepreciationDBApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Infrastructure\obj\Debug\net5.0\DepreciationDBApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Infrastructure\obj\Debug\net5.0\DepreciationDBApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Infrastructure\obj\Debug\net5.0\DepreciationDBApp.Infrastructure.AssemblyInfo.cs
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Infrastructure\obj\Debug\net5.0\DepreciationDBApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Infrastructure\obj\Debug\net5.0\DepreciationDBApp.Infrastructure.csproj.CopyComplete
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Infrastructure\obj\Debug\net5.0\DepreciationDBApp.Infrastructure.dll
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Infrastructure\obj\Debug\net5.0\ref\DepreciationDBApp.Infrastructure.dll
+C:\Users\JADPA18\Desktop\DepreciationDBApp-2M3\DepreciationDBApp.Infrastructure\obj\Debug\net5.0\DepreciationDBApp.Infrastructure.pdb
