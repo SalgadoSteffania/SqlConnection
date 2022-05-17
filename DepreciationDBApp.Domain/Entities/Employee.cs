@@ -7,6 +7,11 @@ namespace DepreciationDBApp.Domain.Entities
 {
     public partial class Employee
     {
+        public Employee()
+        {
+            AssetEmployees = new HashSet<AssetEmployee>();
+        }
+
         public int Id { get; set; }
         public string Names { get; set; }
         public string Lastnames { get; set; }
@@ -15,5 +20,7 @@ namespace DepreciationDBApp.Domain.Entities
         public string Email { get; set; }
         public string Dni { get; set; }
         public string Status { get; set; }
+
+        public virtual ICollection<AssetEmployee> AssetEmployees { get; set; }
     }
 }
